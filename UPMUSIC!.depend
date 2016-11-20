@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479659501 source:c:\users\sphinx06\desktop\upmusic!\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/OpenGL.hpp>
+	<SFML/Audio.hpp>
+	<SFML/System.hpp>
+
