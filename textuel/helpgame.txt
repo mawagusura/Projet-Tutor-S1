@@ -1,0 +1,14 @@
+Commandes du jeux
+
+	ACTION		              TOUCHE
+
+	Play           	=		"P"
+	Reset          	=		"R"
+	Option         	=		"Echap"
+	Help           	=		"H"
+	Selection
+	instruments    	=		"Num1" à "Num5"
+	Navigation
+	bouton musical 	=		"Fleche Directionnelle"
+	Selection
+	bouton musical 	=		"Entrée"
