@@ -1,4 +1,4 @@
-# Projet-Tutor-S1
+# Projet Tutoré du 1er semestre
 Music themed video game. University project.
 Using C++ / SFML
 
