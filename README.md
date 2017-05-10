@@ -7,3 +7,6 @@ It was a big project for beginners like us (we were 2) at this time.
 
 It consists in a music maker with mini games to unlock new instruments.
 
+You can download this and have a look at what it looks like. 
+-
+
